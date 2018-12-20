@@ -1,0 +1,4 @@
+11の結果
+/home/sys/s216097/algorithm1
+12の結果
+test.txt
